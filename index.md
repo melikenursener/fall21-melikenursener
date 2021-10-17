@@ -1,4 +1,7 @@
 ## Welcome to GitHub Pages
+# melikenursener's Progress Journal
+## Welcome to melikenursener�s GitHub Pages.
+### This is my Progress Journal website created for the IE 582 course at Bogazici University.
 
 You can use the [editor on GitHub](https://github.com/melikenursener/fall21-melikenursener/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
