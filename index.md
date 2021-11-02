@@ -1,8 +1,15 @@
 ## Welcome to GitHub Pages
-# Welcome to melikenursener's GitHub Pages
+# Melikenur Sener's Progress Journal
 
-This is my [Progress Journal website](https://bu-ie-582.github.io/fall21-melikenursener/) created for IE 582 course at Bogazici University. You can also visit my personal Github [Website](https://melikenursener.github.io/).
-## HW1
+
+# Welcome to Melikenur Sener's Github Pages
+This is my [Progress Journal Website](https://melikenursener.github.io/) created for IE582 course at Bogazici University.
+
+# Homework 1
+[Task1](https://github.com/BU-IE-582/fall21-melikenursener/blob/gh-pages/HW1/HW1-Task1.html) file of Homework 1.
+[Task2](https://bu-ie-582.github.io/fall21-melikenursener/HW1/HW1%20-%20Task2.html) file of Homework 1.
+
+
 
 You can use the [editor on GitHub](https://github.com/melikenursener/fall21-melikenursener/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
